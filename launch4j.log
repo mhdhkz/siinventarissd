@@ -1,0 +1,18 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\dhika\Documents\AplikasiKKP\SInventarisSekolah.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\dhika\Documents\AplikasiKKP\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	jdk-21.0.6\bin
+Check launcher:	C:\Users\dhika\Documents\AplikasiKKP\jdk-21.0.6\bin\javaw.exe (OK)
+Version string: 1.021.000_006 / 64-Bit (OK)
+Launcher:	C:\Users\dhika\Documents\AplikasiKKP\jdk-21.0.6\bin\javaw.exe
+Launcher args:	-jar "C:\Users\dhika\Documents\AplikasiKKP\SInventarisSekolah.exe"
+Args length:	66/32768 chars
+Exit code:	0
